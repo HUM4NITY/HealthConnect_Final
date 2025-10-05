@@ -31,3 +31,4 @@ Beyond functionality, HealthConnect elevates the user experience with a premium 
 ## Architecture
 
 This application is built on a production-ready architecture.
+
